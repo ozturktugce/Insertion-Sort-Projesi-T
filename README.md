@@ -31,7 +31,11 @@ Dizi siralandiktan sonra 18 sayisi;
 [2,6,16,**18**,22,27] ortada olacağindan **Average Case** kapsamindadir.
 
 [7,3,5,8,2,9,4,15,6] ==> **Insertion Sort'a gore ilk dort adimi;**
+
 [2,3,5,8,7,9,4,15,6]
+
 [2,3,4,8,7,9,5,15,6]
+
 [2,3,4,5,7,9,8,15,6]
+
 [2,3,4,5,6,9,8,15,7]
