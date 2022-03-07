@@ -1,20 +1,28 @@
-# Insertion-Sort-Projesi-T
+# Insertion-Sort-Projesi-T	
 
 **Insertion Asamalari**
 
 [22,27,16,2,18,6]
+
 [2,27,16,22,18,6]
+
 [2,6,16,22,18,27]
+
 [2,6,16,18,22,27]
 
 **Big O gosterimi:** 
 
+
 n+(n-1)+(n-2)+...+1 = n*(n+1)/2
+
 n^2+n / 2 
+
 dominant deger n^2
+
 O(n^2)
 
 **Time Complexitiy**
+
 **Average case:** Aradimiz sayinin ortada olmasi
 **Worst case:** Aradimiz sayinin sonda olmasi
 **Best case:** Aradimiz sayinin dizinin en basinda olmasi.
